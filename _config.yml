@@ -16,7 +16,7 @@
 title: Simen Faugli
 email: simen.faugli@gmail.com
 description: >- # this means to ignore newlines until next property
-  I'm a 3D graphics designer based in Oslo, Norway.
+  3D graphics designer based in Oslo, Norway.
 defaults:
   - scope:
       path: "gallery"
