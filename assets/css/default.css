@@ -1,0 +1,27 @@
+.jumbotron {
+  background: url('../img/apple-coffee-cup.jpg') no-repeat center center;
+  background-size: cover;
+  height: 500px;
+}
+
+.jumbotron h1 {
+  font-size: 5em;
+  text-shadow: 2px 2px 5px white;
+  font-weight: bold;
+}
+
+.jumbotron p.lead {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  display: inline;
+  padding: 10px;
+}
+
+.gallery img {
+  padding: 20px;
+}
+
+body {
+  font-family: 'Poor Story', cursive;
+}
