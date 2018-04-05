@@ -6,13 +6,11 @@
 
 .jumbotron h1 {
   font-size: 5em;
-  /*text-shadow: 2px 2px 5px white;*/
   color: white;
   font-weight: bold;
 }
 
 .jumbotron p.lead {
-  /*background-color: black;*/
   color: white;
   font-weight: bold;
   display: inline;
